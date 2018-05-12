@@ -1,0 +1,27 @@
+_repo: SurprezaEntre-acto-original_25241
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mascarenhas, Miguel J. T.
+    gutenberg_agent_id: '31176'
+    url: http://www.gutenberg.org/2009/agents/31176
+description: ''
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25241'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese drama'
+- !lcc 'PQ'
+title: 'Surpreza
+
+  Entre-acto original'
+url: http://www.gutenberg.org/ebooks/25241
